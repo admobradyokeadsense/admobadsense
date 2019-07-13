@@ -1,2 +1,6 @@
-# admobadsense
-first time using admob for adsense
+# admobadsense {
+     luxxe white apps{
+         google()
+              jcenter(ca-app-pub-9796048063924059~5888722594)
+     }
+}
